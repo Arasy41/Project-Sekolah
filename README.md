@@ -1,2 +1,2 @@
 # Project-Sekolah
-Proyek coding yang pernah saya buat di sekolah
+This project is create in my school for task and for my first studying javascript
